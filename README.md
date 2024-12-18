@@ -1,8 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xichikawa&label=Profile%20views&color=0e75b6&style=flat" alt="0xichikawa" /> </p>
 
-## Hi there 👋
+## Hi there 👋 I'm AI/ML Engineer, Backend Developer
 
-This is ✨Ichikawa Hiroshi✨, an experienced fullstack developer.
 <!--
 **0xichikawa/0xichikawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
