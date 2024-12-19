@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xichikawa&label=Profile%20views&color=0e75b6&style=flat" alt="0xichikawa" /> </p>
 
-## Hi there 👋 I'm Backend Engineer.
+## Hi there 👋 I'm AI/ML Engineer.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
