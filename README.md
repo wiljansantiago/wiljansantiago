@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xichikawa&label=Profile%20views&color=0e75b6&style=flat" alt="0xichikawa" /> </p>
 
-# ✨ Wiljan Santiago - AI Agent | Scraping | API Integration | Trading | FullStack Developer ✨
+# ✨ Santiago - AI Agent | Scraping | API Integration | Trading | FullStack Developer ✨
 
 ### 👉 About Me
 <br/>
